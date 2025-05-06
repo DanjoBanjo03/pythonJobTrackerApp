@@ -1,3 +1,5 @@
+# Gave up on this and started working on a web version
+
 import requests
 
 # Making a GET request
